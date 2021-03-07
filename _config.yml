@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: nodegraph
 github_username: nodegraph
 
+remote_theme: pmarsceill/just-the-docs
 theme: just-the-docs
 exclude: []
 
