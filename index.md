@@ -15,7 +15,7 @@ This site hosts a curated list of resources for the node graph development commu
 
 Quick links to the author's source code:
 * [nodegraph, GitHub](https://github.com/nodegraph)
-* [nodegraph, GitHub](https://gitlab.com/nodegraph)
+* [nodegraph, GitLab](https://gitlab.com/nodegraph)
 {: .fs-6 .fw-300 }
 
 

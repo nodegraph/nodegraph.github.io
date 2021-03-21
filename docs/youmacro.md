@@ -22,4 +22,4 @@ The following are the projects which constituted the early versions of YouMacro.
 
 Stay tuned for a more detailed breakdown and analysis of this software by the original author of the code, coming in a few weeks time. The authors GitHub and GitLab repos can be found at the following links.
 * [nodegraph, GitHub](https://github.com/nodegraph)
-* [nodegraph, GitHub](https://gitlab.com/nodegraph)
+* [nodegraph, GitLab](https://gitlab.com/nodegraph)
