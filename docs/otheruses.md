@@ -18,7 +18,7 @@ The following is a list of other interesting projects using node graphs. Many of
 * [Notch NodeGraph](http://manual.notch.one/0.9.21/en/topic/user-interface-nodegraph)
 * [Uneal NodeGraph and Blueprints](https://www.youtube.com/watch?v=j6mskTgL7kU)
 * [Godot NodeGraph](https://www.youtube.com/watch?v=ZD9X3uvyWmg)
-* [PopcornFX](https://www.popcornfx.com/docs/popcornfx-v2-7/editor/effect-editor-panel-overview/nodegraph/) 
+* [PopcornFX NodeGraph](https://www.popcornfx.com/docs/popcornfx-v2-7/editor/effect-editor-panel-overview/nodegraph/) 
 * [ROS2 NodeGraph API](https://docs.ros2.org/bouncy/api/rclcpp/classrclcpp_1_1node__interfaces_1_1_node_graph.html)
 
 
