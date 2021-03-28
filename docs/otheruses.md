@@ -21,7 +21,7 @@ The following is a list of other interesting projects using node graphs. Many of
 * [Godot NodeGraph](https://www.youtube.com/watch?v=ZD9X3uvyWmg)
 * [PopcornFX NodeGraph](https://www.popcornfx.com/docs/popcornfx-v2-7/editor/effect-editor-panel-overview/nodegraph/) 
 * [ROS2 NodeGraph API](https://docs.ros2.org/bouncy/api/rclcpp/classrclcpp_1_1node__interfaces_1_1_node_graph.html)
-*[Antimony NodeGraph](https://www.mattkeeter.com/projects/antimony/3/)
-*[Cytoscape NodeGraph](https://js.cytoscape.org/)
+* [Antimony NodeGraph](https://www.mattkeeter.com/projects/antimony/3/)
+* [Cytoscape NodeGraph](https://js.cytoscape.org/)
 
 
