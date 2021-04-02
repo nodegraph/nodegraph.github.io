@@ -4,7 +4,7 @@ title: Debates
 nav_order: 4
 ---
 
-![Node graph](../assets/debates.png){:class="img-responsive"}
+![Node graph](../assets/nodegraphqt.png){:class="img-responsive"}
 
 # Debates
 {: .no_toc }
