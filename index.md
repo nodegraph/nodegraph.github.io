@@ -7,11 +7,9 @@ permalink: /
 ---
 
 <div>
-    <iframe src="./nodegraphdemo" height="500px" width="560%" allowfullscreen="" frameborder="0">
+    <iframe src="./nodegraphdemo" height="500px" width="100%" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
-
-![Katana node graph for Spiderman movie](assets/Katana_fullscreengrab.jpg){:class="img-responsive"}
 
 # Node Graph
 {: .fs-9 }
