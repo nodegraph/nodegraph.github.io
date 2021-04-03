@@ -14,7 +14,7 @@ permalink: /
 # Node Graph
 {: .fs-9 }
 
-This site hosts a curated list of resources for the node graph development community. Today many apps use node graphs to organize development, and to give users more control in the app. In the image above we see a screen grab of Katana used in the production of Spider-Man movies.
+This site hosts a curated list of resources for the node graph development community. Today many apps use node graphs to organize development, and to give users more intuitive control in the app. A simple interacitve node graph is shown above. To get a feel for how node graphs work, try using the mouse to click and drag nodes around, click and drag out wires between nodes, pan the graph around, zoom in and zoom out. 
 
 Quick links to the author's source code:
 * [nodegraph, GitHub](https://github.com/nodegraph)
