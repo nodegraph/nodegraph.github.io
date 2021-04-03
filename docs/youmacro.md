@@ -20,6 +20,6 @@ The following are the projects which constituted the early versions of YouMacro.
 * [ngsexternal](https://github.com/nodegraph/ngsexternal)
 * [ngsrelease](https://github.com/nodegraph/ngsrelease)
 
-Stay tuned for a more detailed breakdown and analysis of this software by the original author of the code, coming in a few weeks time. The authors GitHub and GitLab repos can be found at the following links.
+The authors GitHub and GitLab repos can be found at the following links.
 * [nodegraph, GitHub](https://github.com/nodegraph)
 * [nodegraph, GitLab](https://gitlab.com/nodegraph)
