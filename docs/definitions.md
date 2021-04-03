@@ -10,7 +10,7 @@ nav_order: 2
 {: .no_toc }
 
 
-Wikipedia has articles explaining how node graphs are used in software today, as well as definitions on common components used in node graphs, written by yours truly. 
+Wikipedia has articles which define node graphs, their operating components and how they are used in software applications today, written by yours truly. 
 
 * [Node graph architecture](https://en.wikipedia.org/wiki/Node_graph_architecture)
 * [Node graph](https://en.wikipedia.org/wiki/Node_graph_architecture#Node_Graph)
