@@ -4,7 +4,7 @@ title: Definitions
 nav_order: 2
 ---
 
-![Blender node graph](../assets/Katana_fullscreengrab.jpg){:class="img-responsive"}
+![Blender node graph](../assets/reactflow_nodes.jpg){:class="img-responsive"}
 
 # Definitions
 {: .no_toc }
