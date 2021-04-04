@@ -11,7 +11,7 @@ nav_order: 3
 {: .no_toc }
 
 
-With the explosion of node graphs in many different applications, the user interface to the nodegraph has become a very important consideration. 
+With the explosion of node graphs in many different applications, the user interface to the node graph has become a very important consideration. 
 
 * [Node graphs on dribble](https://dribbble.com/rfksna/collections/3268905-Node-Graph)
 * [Nodes on dribble](https://dribbble.com/tags/nodes)
