@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Other Uses
-nav_order: 9
+nav_order: 8
 ---
 
 ![Node graph](../assets/popcornfx_nodegraph.png){:class="img-responsive"}
