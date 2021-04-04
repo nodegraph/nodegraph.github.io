@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 <div>
-    <iframe src="./nodegraphdemo" height="450px" width="100%" scrolling="no" frameborder="0">
+    <iframe src="../nodegraphdemo" height="450px" width="100%" scrolling="no" frameborder="0">
     </iframe>
 </div>
 
