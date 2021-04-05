@@ -13,8 +13,8 @@ nav_order: 3
 
 With the explosion of node graphs in many different applications, the user interface to the node graph has become a very important consideration. 
 
-* [Node graphs on dribble](https://dribbble.com/rfksna/collections/3268905-Node-Graph)
-* [Nodes on dribble](https://dribbble.com/tags/nodes)
+* [Node graphs on dribbble](https://dribbble.com/rfksna/collections/3268905-Node-Graph)
+* [Nodes on dribbble](https://dribbble.com/tags/nodes)
 
 Snapshots of node graphs in many different applications over many years.
 
