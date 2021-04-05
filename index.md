@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Overview
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
@@ -11,7 +11,7 @@ permalink: /
     </iframe>
 </div>
 
-# Node Graph
+# Overview
 {: .fs-9 }
 
 This site hosts a curated list of resources for the node graph development community. Today many apps use node graphs to organize development, and to give users more intuitive control in the app. 
