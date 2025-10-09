@@ -28,13 +28,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Add linux platform to lockfile
-        run: bundle lock --add-platform x86_64-linux
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2' # Use a Ruby version compatible with your gems
-          bundler-cache: true # runs 'bundle install' and caches installed gems
+          # We manually install gems after modifying the lockfile, so we don't use bundler-cache here.
+      - name: Add linux platform to lockfile
+        # This is necessary because the lockfile was created on Windows
+        run: bundle lock --add-platform x86_64-linux
+      - name: Install dependencies
+        run: bundle install --jobs 4 --retry 3
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
